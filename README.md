@@ -1,25 +1,22 @@
-# iaumg
-Proyectos de Curso de Inteligencia Artificial
-Este repositorio forma parte del curso homónimo de la Universidad Mariano Gálvez, y su objetivo es fomentar el aprendizaje y la experimentación en el campo de la Inteligencia Artificial.
+### CHATBOT Whatsapp (Baileys Provider)
 
-# Descripción del repositorio
-Este repositorio alberga una variedad de proyectos de Inteligencia Artificial que abarcan diferentes áreas y aplicaciones. Cada proyecto incluye código fuente, documentación y recursos relacionados que te ayudarán a comprender y replicar los resultados obtenidos.
+<p align="center">
+  <img width="300" src="https://i.imgur.com/Oauef6t.png">
+</p>
 
-# Contenido
-El repositorio incluye proyectos en las siguientes áreas:
 
-- Fundamentos de Machine Learning
-- Agentes Inteligentes
-- Percepción y Entorno de Trabajo
-- Problemas de Búsqueda
-- Sistemas de Gestión de Conocimiento
-- Visión Computarizada
-- Redes Neuronales
-- Chatbot
+**Con esta librería, puedes construir flujos automatizados de conversación de manera agnóstica al proveedor de WhatsApp,** configurar respuestas automatizadas para preguntas frecuentes, recibir y responder mensajes de manera automatizada, y hacer un seguimiento de las interacciones con los clientes.  Además, puedes configurar fácilmente disparadores que te ayudaran a expandir las funcionalidades sin límites. **[Ver documentación](https://bot-whatsapp.netlify.app/)**
 
-# Requisitos del sistema
-Los proyectos están desarrollados principalmente en Python y hacen uso de diversas bibliotecas y frameworks de Inteligencia Artificial. 
 
-Se necesitan las siguientes Bibliotecas de Python: TensorFlow, Keras, PyTorch, scikit-learn, NLTK, etc.
+```
+npm install
+npm start
+```
 
-Este repositorio fue desarrollado como parte del curso de Inteligencia Artificial en la Universidad Mariano Gálvez. Agradecemos a todos los instructores y colaboradores que hicieron posible este repositorio.
+---
+## Recursos
+- [📄 Documentación](https://bot-whatsapp.netlify.app/)
+- [🚀 Roadmap](https://github.com/orgs/codigoencasa/projects/1)
+- [💻 Discord](https://link.codigoencasa.com/DISCORD)
+- [👌 Twitter](https://twitter.com/leifermendez)
+- [🎥 Youtube](https://www.youtube.com/watch?v=5lEMCeWEJ8o&list=PL_WGMLcL4jzWPhdhcUyhbFU6bC0oJd2BR)
